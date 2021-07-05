@@ -1,0 +1,28 @@
+.footer{
+    background-color:#343A40;
+    box-sizing: border-box;
+    border-radius: 0px;
+    color:white;
+    margin-top:20px;
+    margin-bottom:10px;
+    width: auto;
+    height: 400px;
+}
+.footerItem{    
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.LinkItemFooter
+{
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    margin: 20px 35px 0px 70px ;
+   
+}
+.LinkBlock{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}

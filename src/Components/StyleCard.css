@@ -1,0 +1,88 @@
+.card{
+    background: rgba(241, 239, 239, 0.5);
+    border-radius: 2px;
+    box-sizing: border-box;
+    width:500px;
+    height : 250px;
+    margin-top: 135px;
+}
+.flexBox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.flexBoxItem{
+    display: flex;
+}
+
+.cardItem{
+    display: flex;
+    background: rgba(241, 239, 239, 0.5);
+    border-radius: 2px;
+    box-sizing: border-box;
+    width:250px;
+    height : 320px;
+    margin-top: 40px;
+    margin: 20px;
+    
+}
+.imgItem{
+    width: 150px;
+    padding: 15px;
+   
+}
+.imageProduct{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.textItem{
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    color: gray;
+}
+
+.actionBtn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.containerItem{
+    display: flex;
+    max-width: 1440px;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(236, 40, 5);
+    padding: 5px;
+    border-radius: 5px;
+    padding: 10px 10px 10px 15px;
+    border-color: rgb(236, 40, 5);
+}
+.FaArrow{
+    margin-left:10px;
+    margin-top: 2.7px;
+}
+.FaArrow:hover{
+    transition: 0.5s;
+    color:rgb(79, 233, 138);
+}
+.LinkItem{
+text-decoration: none;
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: 25px;
+color: #201f20;
+}
+a:hover{
+    text-decoration: none;
+    border: none;
+    border-style: none;
+    color: white;
+}

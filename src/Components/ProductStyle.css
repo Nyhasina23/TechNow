@@ -1,0 +1,11 @@
+.product{
+    padding : 20px;
+}
+.imgContainer{
+    margin-top: -150px;
+    width:300px;
+    height:300px;
+}
+.FaArrowRight{
+    color: red;
+}

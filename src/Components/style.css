@@ -1,0 +1,92 @@
+.ml-auto{
+    margin-right: 50px;
+}
+.nav-link{
+    margin-right: 20px;
+}
+.technow{
+    font-weight: 600;
+    width: 900px;
+    margin: 0 auto;
+    position: relative;
+}
+.technow_1{
+  color: #ff0404;
+}
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+    width: 100%;
+    padding-top: 15px;
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: 0;
+    margin-left: 0;
+}
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+    border-radius: 10px;
+}
+img{
+    border-radius: 5px;
+}
+.btn-primary .btn .Ripple-parent .btn01{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 175px;
+    border-radius: 0;
+}
+.btn01{
+    background-color: rgb(236, 40, 5); 
+    border-color:rgb(230, 66, 17);
+    width: auto;
+    border-radius: 0;
+    font-weight: 700;
+    height: 50px;
+
+}
+.smalltext{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size : 20px;
+    color:rgb(255, 0, 0);
+    width:100%;
+}
+.bigtext{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size : 40px;
+    width: 100%;
+}
+.mediumtext{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size : 20px;
+    width: 500px;
+    color: rgb(197, 193, 193);
+}
+.mediumtext2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size : 20px;
+    color: rgb(197, 193, 193);
+}
+.container-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 120px;
+    margin-left: -600px;
+}
+.search{
+    width: 50px;
+    color: white;
+    cursor: pointer;
+}

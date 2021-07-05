@@ -1,0 +1,10 @@
+.formComponent{
+    display: grid;
+    margin-top: 15px;
+    background-color: ivory;
+    padding: 30px;
+    border-radius: 5px;
+}
+input{
+    margin-bottom: 15px;
+}
